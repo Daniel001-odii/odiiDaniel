@@ -7,11 +7,11 @@
 
 @font-face {
     font-family: boldFont;
-    src: url("fonts/texgyreadventor-bold.otf");
+    src: url("fonts/poppins.medium.ttf");
 }
 @font-face {
     font-family: roundFont;
-    src: url(fonts/Typo_Round_Light_Demo.otf);
+    src: url("fonts/poppins.thin.ttf");
 }
 a{text-decoration: none; color: inherit;}
 img{
