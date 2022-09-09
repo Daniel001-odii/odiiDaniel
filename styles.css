@@ -386,6 +386,7 @@ body{
     border-radius: 5px;
     padding: 20px;
     box-shadow: 1px 1px 10px #010713c9;
+    color: #fff;
 }
 
 .card-footer{
@@ -551,3 +552,6 @@ body{
   }
 
 
+.source{
+    font-size: 20px;
+}
